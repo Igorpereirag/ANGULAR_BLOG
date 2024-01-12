@@ -1,0 +1,9 @@
+.container_articles{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.container_articles{
+    padding-left: 10px;
+}
