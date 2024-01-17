@@ -1,3 +1,18 @@
 p{
     color: aliceblue;
 }
+
+
+
+
+.container-menu_bar > ul {
+    display: flex;
+    flex-direction: row;
+}
+
+
+.container-menu_bar > ul > li{
+ margin-right: 10px;
+ list-style: none;
+
+}
